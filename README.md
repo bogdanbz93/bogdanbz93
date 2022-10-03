@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Novo HR](www.novostudios.dev) - Application for team managers for employee time management, time off management, project management and monthly charts for work overview.
 
-- 📫 You can reach me on - **bogdan@novostudios.dev**
+- 📫 You can reach me on - **bogdan@novostudios.dev**, but, I'm on Gmail as well - **buzea.v.bogdan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
