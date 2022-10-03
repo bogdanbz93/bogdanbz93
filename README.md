@@ -7,6 +7,8 @@
 
 - 📫 You can reach me on - **bogdan@novostudios.dev**, but, I'm on Gmail as well - **buzea.v.bogdan@gmail.com**
 
+<h3 align="left">Hungry Time - Mongo.db, Express.js, React.js & Node.js</h3>
+- 🍔 List your restaurant in a few simple steps. No one wants to search through several pages of your restaurant's information. We all want to save time. Well, make a summary of your restaurant, publish contact details, pictures and menu that your customers can scan from each table. It will be automatically generated for you.
 <img src="https://user-images.githubusercontent.com/60348906/193573777-c3c7be40-ac7b-4d35-837e-6f306ed47769.png" />
 
 <h3 align="left">Connect with me:</h3>
