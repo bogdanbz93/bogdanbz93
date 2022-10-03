@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bogdanbz93&label=Profile%20views&color=0e75b6&style=flat" alt="bogdanbz93" /> </p>
 
-- 🔭 I’m currently working on [Novo HR](www.novostudios.dev) - Application for team managers for employee time management, time off management, project management and monthly charts for work overview. At the same time, I learn the latest web technologies for a better application flow.
+- 🔭 I’m currently working on [Novo HR](https://www.novostudios.dev/) - Application for team managers for employee time management, time off management, project management and monthly charts for work overview. At the same time, I learn the latest web technologies for a better application flow.
 
 - 📫 You can reach me on - **bogdan@novostudios.dev**, but, I'm on Gmail as well - **buzea.v.bogdan@gmail.com**
 
