@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Novo HR](https://www.novostudios.dev/) - Application for team managers for employee time management, time off management, project management and monthly charts for work overview. At the same time, I learn the latest web technologies for a better application flow.
 
-- 📫 You can reach me on - **bogdan@novostudios.dev**, but, I'm on Gmail as well - **buzea.v.bogdan@gmail.com**
+- 📫 You can reach me on - **buzea.v.bogdan@gmail.com**
 
 <h3 align="left">Hungry Time - Mongo.db, Express.js, React.js & Node.js</h3>
 <p>🍔 List your restaurant in a few simple steps. No one wants to search through several pages of your restaurant's information. We all want to save time. Well, make a summary of your restaurant, publish contact details, pictures and menu that your customers can scan from each table. It will be automatically generated for you.
